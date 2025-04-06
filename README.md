@@ -2,8 +2,19 @@
 
 WinTweaker программа для:
 
-🌄 Оптимизации Windows;
-✨ Очистка Windows;
+✨ Оптимизации Windows
+
+✨ Очистка Windows
+
+✨ Настройка Windows
 
 
-WinTweaker English - It's a program for good cleaning and optimizing your system!
+# English 
+
+WinTweaker is a program for
+
+✨ Windows Optimization 
+
+✨ Windows Clean
+
+✨ Setup Windows
